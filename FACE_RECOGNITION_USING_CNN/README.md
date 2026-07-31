@@ -174,13 +174,7 @@ jupyter notebook "LFW AKSHAT GARG 23BCE10641.ipynb"
 
 ---
 
-## 📁 Project Structure
-
-```
-LFW face recognition/
-├── LFW AKSHAT GARG 23BCE10641.ipynb   # Main notebook (full pipeline)
-└── README.md                          # Project documentation
-```
+`
 
 ---
 
