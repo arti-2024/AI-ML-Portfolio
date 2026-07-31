@@ -167,7 +167,7 @@ cd "LFW face recognition"
 pip install tensorflow matplotlib numpy scipy scikit-learn seaborn
 
 # 3. Launch the notebook
-jupyter notebook "LFW AKSHAT GARG 23BCE10641.ipynb"
+j
 ```
 
 > **Note:** The LFW dataset is downloaded automatically by scikit-learn on first run (~200 MB). No Kaggle account needed.
