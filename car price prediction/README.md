@@ -196,7 +196,7 @@ cd "car price prediction"
 pip install pandas numpy scikit-learn flask seaborn matplotlib opendatasets
 
 # 3. Option A: Run the notebook (trains model + saves pickle + creates app)
-jupyter notebook "CAR_PRICE_PREDICTOR_AKSHAT_GARG_23BCE10641.ipynb"
+jupyter notebook 
 
 # 3. Option B: Run the Flask app directly (if model pickle already exists)
 python app.py
