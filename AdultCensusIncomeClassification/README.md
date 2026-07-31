@@ -141,7 +141,7 @@ cd "Adult Census Income Classification"
 pip install numpy pandas scikit-learn kagglehub jupyter
 
 # 3. Launch the notebook
-jupyter notebook "Assignment Akshat Garg.ipynb"
+
 ```
 
 > **Note:** The notebook automatically downloads the dataset using `kagglehub`. Ensure your Kaggle API credentials are configured (`~/.kaggle/kaggle.json`).
